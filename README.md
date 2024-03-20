@@ -1,0 +1,2 @@
+# ticket-json2md
+RedmineチケットのJSONを読み込んでmarkdown形式で出力する
